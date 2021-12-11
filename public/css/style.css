@@ -1,0 +1,18 @@
+.table > tbody > tr > * {
+  vertical-align: middle;
+}
+.heading-style-small-underline {
+  font-weight: 80px;
+  color: aliceblue;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.heading-style-small-underline:after {
+  content: "";
+  display: block;
+  padding-top: 0.25em;
+  width: 300px;
+}
+.h1 {
+  margin-top: 10;
+}
